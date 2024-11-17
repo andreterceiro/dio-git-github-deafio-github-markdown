@@ -38,3 +38,5 @@ I stil need today:
 - [ ] Answer some emails
 - [ ] Call my dad
 - [ ] Some secret (kkk) things
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&show_icons=true&theme=radical)
