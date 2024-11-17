@@ -40,3 +40,5 @@ I stil need today:
 - [ ] Some secret (kkk) things
 
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreterceiro&show_icons=true&theme=radical)
+
+I can add "infinite" things here ok, I know other things (I need to know to teach [this course](https://www.terceiro.com.br/git.html) in Udemy, ok?), but I have to finish to do other things. Thanks :)
